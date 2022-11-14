@@ -1,5 +1,9 @@
 # Training
 
+## WiP
+
+git clone this repo into interfce/src/routes
+
 ## Javascript
 
 ## JSX
