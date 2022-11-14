@@ -1,0 +1,1 @@
+// prefer globalthis to importable function
